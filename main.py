@@ -6,3 +6,4 @@ print("i can now upload my python projects.")
 def add(a,b):
     return a+b
 print("sum:", add(10,20))
+print("learning git fetch and pull:")
